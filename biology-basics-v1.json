@@ -1,0 +1,18 @@
+
+{
+  "packId": "biology-basics-v1",
+  "version": 1,
+  "questions": [
+    {
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "questionText": "Which organelle is the main site of ATP production in eukaryotic cells?",
+      "optionA": "Golgi apparatus",
+      "optionB": "Mitochondrion",
+      "optionC": "Lysosome",
+      "optionD": "Ribosome",
+      "correctOption": 1,
+      "explanation": "Mitochondria generate most ATP during aerobic respiration."
+    }
+  ]
+}
