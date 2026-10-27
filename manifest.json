@@ -1,12 +1,25 @@
-
 {
   "packs": [
     {
       "id": "biology-basics-v1",
-      "title": "Biology Basics",
+      "title": "NEET Biology Question Bank (90 questions)",
       "subject": "Biology",
       "version": 1,
       "url": "https://sukhwindergna.github.io/neetmistakecoach-question-bank/biology-basics-v1.json"
+    },
+    {
+      "id": "chemistry-basics-v1",
+      "title": "NEET Chemistry Question Bank (45 questions)",
+      "subject": "Chemistry",
+      "version": 1,
+      "url": "https://sukhwindergna.github.io/neetmistakecoach-question-bank/chemistry-basics-v1.json"
+    },
+    {
+      "id": "physics-basics-v1",
+      "title": "NEET Physics Question Bank (45 questions)",
+      "subject": "Physics",
+      "version": 1,
+      "url": "https://sukhwindergna.github.io/neetmistakecoach-question-bank/physics-basics-v1.json"
     }
   ]
 }
